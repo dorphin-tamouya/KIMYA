@@ -4,7 +4,76 @@
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Hanlding Updates
 -----------------------------------------------------------------*/
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+}
 
+.container{
+    padding-top:50px;
+    margin: auto;
+}
 
+input[type=text].form-control.valid + label:after,
+input[type=text].form-control:focus.valid + label:after,
+input[type=text].form-control.invalid + label:after,
+input[type=text].form-control:focus.invalid + label:after,
+input[type=password].form-control.valid + label:after,
+input[type=password].form-control:focus.valid + label:after,
+input[type=password].form-control.invalid + label:after,
+input[type=password].form-control:focus.invalid + label:after {
+    top: 3.75rem !important;
+}
+
+.flag-icon-custom {
+    width: 60px;
+    margin: 4px 4px 4px 4px;
+}
+
+.icon-custom {
+    width: 60px;
+}
+
+.span-error {
+    color:#FF0000 !important;
+}
+
+.append-custom {
+    width: 40px;
+    background-color:#F6F9F4;
+}
+
+.payments-types {
+    margin: 0;
+    padding: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.payments-types li {
+    margin: 0px 10px 8px 0px;
+}
+.payments-types li a {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    opacity: 1;
+}
+.payments-types li img {
+    display: flex;
+}
+.payments-types li:hover a {
+    opacity: 0.8;
+}
+
+.operator-img {
+    max-width: 50px;
+    height: 30px;
+    margin-top: 10px;
+}
 
 

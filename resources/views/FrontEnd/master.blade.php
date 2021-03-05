@@ -1,27 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
-<link href="images/favicon.png" rel="icon" />
-<title>Payyed - Money Transfer and Online Payments HTML Template</title>
-<meta name="description" content="This professional design html template is for build a Money Transfer and online payments website.">
-<meta name="author" content="harnishdesign.net">
+    <title>Accueil - KIMYA TRANSFERT</title>
+    
+    <!--<script th:if="${option eq 'option'}" src='//production-assets.codepen.io/assets/editor/live/events_runner-73716630c22bbc8cff4bd0f07b135f00a0bdc5d14629260c3ec49e5606f98fdd.js'></script>-->
+    
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
-<!-- Web Fonts
-============================================= -->
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i' type='text/css'>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta content="iCash Congo is a solution created by Congolese to meet our fund transfer needs" name="description">
+    <meta content="transfer, mobile, phone, money, mpesa, airtel money, orange money, congo, africa, DRC, democratic republic of congo" name="keywords">
+    <meta property="og:title" content="ICASH CONGO"><meta property="og:type" content="website">
+    <meta property="og:description" content="KIMYA TRANSFERT Congo is a solution created by Congolese to meet our fund transfer needs">
+    <meta property="og:site_name" content="ICASH CONGO Homepage"><meta property="og:locale" content="en_GB">
+    <meta property="article:author" content="https://upsylone.com">
+    <meta property="og:article:section" content="Home"><meta property="og:url" content="https://www.kimya trasnfert.com">
 
-<!-- Stylesheet
-============================================= -->
-<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css" />
-<link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css" />
-<link rel="stylesheet" type="text/css" href="vendor/bootstrap-select/css/bootstrap-select.css" />
-<link rel="stylesheet" type="text/css" href="vendor/currency-flags/css/currency-flags.min.css" />
-<link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css" />
-<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
-</head>
+    <meta property="og:image" content="https://collect.icash-congo.com/images/icash-cover-site.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@kimyacongo">
+    <meta name="twitter:title" content="KIMYA CONGO">
+    <meta name="twitter:description" content="KIMYA Congo is a solution created by Congolese to meet our fund transfer needs">
+    <meta name="twitter:creator" content="@UPSYLONE">
+    <meta name="twitter:image:src" content="https://collect.icash-congo.com/images/icash-cover-site.jpg">
+    <meta name="twitter:image:alt" content="KIMYA CONGO">
+    <meta name="twitter:domain" content="www.kimya-congo.com"><link rel="canonical" href="https://www.kimya-congo.com">
+
+    <!-- Add iOS meta tags and icons -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="kimya Congo">
+    <meta name="theme-color" content="#F6b402">
+    <link rel="apple-touch-icon" href="/images/icons/icon-152x152.png">
+
+    <link href="/images/icons/icon-128x128.png" rel="icon">
+    <meta name="description" content="iCashCollect, plateforme de transfert d'argent">
+    <meta name="author" content="businesslighthouse">
+    <!-- Button style
+    ============================================= -->
+    
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet">
+
+    
+    
+
+    
+    <!-- Web Fonts
+    ============================================= -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" type="text/css">
+
+    <!-- Stylesheet
+    ============================================= -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap-select/css/bootstrap-select.css">
+    <link rel="stylesheet" type="text/css" href="vendor/currency-flags/css/currency-flags.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-168122161-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-168122161-1');
+    </script>
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700&amp;amp;subset=cyrillic" rel="stylesheet"><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
 <body>
 
 <!-- Preloader -->
@@ -244,72 +297,19 @@
               <a class="btn btn-outline-light video-btn" href="#" data-src="https://www.youtube.com/embed/7e90gBu4pas" data-toggle="modal" data-target="#videoModal"><span class="text-2 mr-3"><i class="fas fa-play"></i></span>See How it Works</a> </div>
             <div class="col-lg-6 col-xl-5 my-auto">
               <div class="bg-white rounded shadow-md p-4">
-                <h3 class="text-5 mb-4 text-center">Send Money</h3>
-                <hr class="mb-4 mx-n4">
                 <form id="form-send-money" method="post">
                   <div class="form-group">
                     <label for="youSend">You Send</label>
                     <div class="input-group">
-                      <div class="input-group-prepend"> <span class="input-group-text">$</span> </div>
-                      <input type="text" class="form-control" data-bv-field="youSend" id="youSend" value="1,000" placeholder="">
-                      <div class="input-group-append"> <span class="input-group-text p-0">
+                      <div class="input-group-prepend"> <span class="input-group-text">€</span> </div>
+                      <input type="number" class="form-control" placeholder="0.0" data-bv-field="youSend" id="youSend" step=".01" onchange="calculateRecipient(this.value);" min="3" max="205882" required="" name="sendingAmount" value="">                       <div class="input-group-append"> <span class="input-group-text p-0">
                         <select id="youSendCurrency" data-style="custom-select bg-transparent border-0" data-container="body" data-live-search="true" class="selectpicker form-control bg-transparent" required="">
                           <optgroup label="Popular Currency">
-                          <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" selected="selected" value="">USD</option>
-                          <option data-icon="currency-flag currency-flag-aud mr-1" data-subtext="Australian dollar" value="">AUD</option>
-                          <option data-icon="currency-flag currency-flag-inr mr-1" data-subtext="Indian rupee" value="">INR</option>
+                          <option data-icon="currency-flag currency-flag-eur mr-1" data-subtext="Euro" selected="selected" value="">EUR</option>
+                          <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" value="">USD</option>
+                          <option data-icon="currency-flag currency-flag-shp mr-1" data-subtext="Livre Sterling" value="">GBP</option>
                           </optgroup>
-                          <option data-divider="true"></option>
-                          <optgroup label="Other Currency">
-                          <option data-icon="currency-flag currency-flag-aed mr-1" data-subtext="United Arab Emirates dirham" value="">AED</option>
-                          <option data-icon="currency-flag currency-flag-ars mr-1" data-subtext="Argentine peso" value="">ARS</option>
-                          <option data-icon="currency-flag currency-flag-aud mr-1" data-subtext="Australian dollar" value="">AUD</option>
-                          <option data-icon="currency-flag currency-flag-bdt mr-1" data-subtext="Bangladeshi taka" value="">BDT</option>
-                          <option data-icon="currency-flag currency-flag-bgn mr-1" data-subtext="Bulgarian lev" value="">BGN</option>
-                          <option data-icon="currency-flag currency-flag-brl mr-1" data-subtext="Brazilian real" value="">BRL</option>
-                          <option data-icon="currency-flag currency-flag-cad mr-1" data-subtext="Canadian dollar" value="">CAD</option>
-                          <option data-icon="currency-flag currency-flag-chf mr-1" data-subtext="Swiss franc" value="">CHF</option>
-                          <option data-icon="currency-flag currency-flag-clp mr-1" data-subtext="Chilean peso" value="">CLP</option>
-                          <option data-icon="currency-flag currency-flag-cny mr-1" data-subtext="Chinese yuan" value="">CNY</option>
-                          <option data-icon="currency-flag currency-flag-czk mr-1" data-subtext="Czech koruna" value="">CZK</option>
-                          <option data-icon="currency-flag currency-flag-dkk mr-1" data-subtext="Danish krone" value="">DKK</option>
-                          <option data-icon="currency-flag currency-flag-egp mr-1" data-subtext="Egyptian pound" value="">EGP</option>
-                          <option data-icon="currency-flag currency-flag-eur mr-1" data-subtext="Euro" value="">EUR</option>
-                          <option data-icon="currency-flag currency-flag-gbp mr-1" data-subtext="British pound" value="">GBP</option>
-                          <option data-icon="currency-flag currency-flag-gel mr-1" data-subtext="Georgian lari" value="">GEL</option>
-                          <option data-icon="currency-flag currency-flag-ghs mr-1" data-subtext="Ghanaian cedi" value="">GHS</option>
-                          <option data-icon="currency-flag currency-flag-hkd mr-1" data-subtext="Hong Kong dollar" value="">HKD</option>
-                          <option data-icon="currency-flag currency-flag-hrk mr-1" data-subtext="Croatian kuna" value="">HRK</option>
-                          <option data-icon="currency-flag currency-flag-huf mr-1" data-subtext="Hungarian forint" value="">HUF</option>
-                          <option data-icon="currency-flag currency-flag-idr mr-1" data-subtext="Indonesian rupiah" value="">IDR</option>
-                          <option data-icon="currency-flag currency-flag-ils mr-1" data-subtext="Israeli shekel" value="">ILS</option>
-                          <option data-icon="currency-flag currency-flag-inr mr-1" data-subtext="Indian rupee" value="">INR</option>
-                          <option data-icon="currency-flag currency-flag-jpy mr-1" data-subtext="Japanese yen" value="">JPY</option>
-                          <option data-icon="currency-flag currency-flag-kes mr-1" data-subtext="Kenyan shilling" value="">KES</option>
-                          <option data-icon="currency-flag currency-flag-krw mr-1" data-subtext="South Korean won" value="">KRW</option>
-                          <option data-icon="currency-flag currency-flag-lkr mr-1" data-subtext="Sri Lankan rupee" value="">LKR</option>
-                          <option data-icon="currency-flag currency-flag-mad mr-1" data-subtext="Moroccan dirham" value="">MAD</option>
-                          <option data-icon="currency-flag currency-flag-mxn mr-1" data-subtext="Mexican peso" value="">MXN</option>
-                          <option data-icon="currency-flag currency-flag-myr mr-1" data-subtext="Malaysian ringgit" value="">MYR</option>
-                          <option data-icon="currency-flag currency-flag-ngn mr-1" data-subtext="Nigerian naira" value="">NGN</option>
-                          <option data-icon="currency-flag currency-flag-nok mr-1" data-subtext="Norwegian krone" value="">NOK</option>
-                          <option data-icon="currency-flag currency-flag-npr mr-1" data-subtext="Nepalese rupee" value="">NPR</option>
-                          <option data-icon="currency-flag currency-flag-nzd mr-1" data-subtext="New Zealand dollar" value="">NZD</option>
-                          <option data-icon="currency-flag currency-flag-pen mr-1" data-subtext="Peruvian nuevo sol" value="">PEN</option>
-                          <option data-icon="currency-flag currency-flag-php mr-1" data-subtext="Philippine peso" value="">PHP</option>
-                          <option data-icon="currency-flag currency-flag-pkr mr-1" data-subtext="Pakistani rupee" value="">PKR</option>
-                          <option data-icon="currency-flag currency-flag-pln mr-1" data-subtext="Polish złoty" value="">PLN</option>
-                          <option data-icon="currency-flag currency-flag-ron mr-1" data-subtext="Romanian leu" value="">RON</option>
-                          <option data-icon="currency-flag currency-flag-rub mr-1" data-subtext="Russian rouble" value="">RUB</option>
-                          <option data-icon="currency-flag currency-flag-sek mr-1" data-subtext="Swedish krona" value="">SEK</option>
-                          <option data-icon="currency-flag currency-flag-sgd mr-1" data-subtext="Singapore dollar" value="">SGD</option>
-                          <option data-icon="currency-flag currency-flag-thb mr-1" data-subtext="Thai baht" value="">THB</option>
-                          <option data-icon="currency-flag currency-flag-try mr-1" data-subtext="Turkish lira" value="">TRY</option>
-                          <option data-icon="currency-flag currency-flag-uah mr-1" data-subtext="Ukrainian hryvnia" value="">UAH</option>
-                          <option data-icon="currency-flag currency-flag-ugx mr-1" data-subtext="Ugandan shilling" value="">UGX</option>
-                          <option data-icon="currency-flag currency-flag-vnd mr-1" data-subtext="Vietnamese dong" value="">VND</option>
-                          <option data-icon="currency-flag currency-flag-zar mr-1" data-subtext="South African rand" value="">ZAR</option>
-                          </optgroup>
+                          
                         </select>
                         </span> </div>
                     </div>
@@ -318,69 +318,35 @@
                     <label for="recipientGets">Recipient Gets</label>
                     <div class="input-group">
                       <div class="input-group-prepend"> <span class="input-group-text">$</span> </div>
-                      <input type="text" class="form-control" data-bv-field="recipientGets" id="recipientGets" value="1,410.06" placeholder="">
-                      <div class="input-group-append"> <span class="input-group-text p-0">
+                      <input type="number" class="form-control" placeholder="0.0" data-bv-field="youSend" id="youSend" step=".01" onchange="calculateRecipient(this.value);" min="3" max="205882" required="" name="sendingAmount" value="">                      <div class="input-group-append"> <span class="input-group-text p-0">
                         <select id="recipientCurrency" data-style="custom-select bg-transparent border-0" data-container="body" data-live-search="true" class="selectpicker form-control bg-transparent" required="">
                           <optgroup label="Popular Currency">
-                          <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" value="">USD</option>
-                          <option data-icon="currency-flag currency-flag-aud mr-1" data-subtext="Australian dollar" selected="selected"  value="">AUD</option>
-                          <option data-icon="currency-flag currency-flag-inr mr-1" data-subtext="Indian rupee" value="">INR</option>
-                          </optgroup>
-                          <option data-divider="true"></option>
-                          <optgroup label="Other Currency">
-                          <option data-icon="currency-flag currency-flag-aed mr-1" data-subtext="United Arab Emirates dirham" value="">AED</option>
-                          <option data-icon="currency-flag currency-flag-ars mr-1" data-subtext="Argentine peso" value="">ARS</option>
-                          <option data-icon="currency-flag currency-flag-aud mr-1" data-subtext="Australian dollar" value="">AUD</option>
-                          <option data-icon="currency-flag currency-flag-bdt mr-1" data-subtext="Bangladeshi taka" value="">BDT</option>
-                          <option data-icon="currency-flag currency-flag-bgn mr-1" data-subtext="Bulgarian lev" value="">BGN</option>
-                          <option data-icon="currency-flag currency-flag-brl mr-1" data-subtext="Brazilian real" value="">BRL</option>
-                          <option data-icon="currency-flag currency-flag-cad mr-1" data-subtext="Canadian dollar" value="">CAD</option>
-                          <option data-icon="currency-flag currency-flag-chf mr-1" data-subtext="Swiss franc" value="">CHF</option>
-                          <option data-icon="currency-flag currency-flag-clp mr-1" data-subtext="Chilean peso" value="">CLP</option>
-                          <option data-icon="currency-flag currency-flag-cny mr-1" data-subtext="Chinese yuan" value="">CNY</option>
-                          <option data-icon="currency-flag currency-flag-czk mr-1" data-subtext="Czech koruna" value="">CZK</option>
-                          <option data-icon="currency-flag currency-flag-dkk mr-1" data-subtext="Danish krone" value="">DKK</option>
-                          <option data-icon="currency-flag currency-flag-egp mr-1" data-subtext="Egyptian pound" value="">EGP</option>
-                          <option data-icon="currency-flag currency-flag-eur mr-1" data-subtext="Euro" value="">EUR</option>
-                          <option data-icon="currency-flag currency-flag-gbp mr-1" data-subtext="British pound" value="">GBP</option>
-                          <option data-icon="currency-flag currency-flag-gel mr-1" data-subtext="Georgian lari" value="">GEL</option>
-                          <option data-icon="currency-flag currency-flag-ghs mr-1" data-subtext="Ghanaian cedi" value="">GHS</option>
-                          <option data-icon="currency-flag currency-flag-hkd mr-1" data-subtext="Hong Kong dollar" value="">HKD</option>
-                          <option data-icon="currency-flag currency-flag-hrk mr-1" data-subtext="Croatian kuna" value="">HRK</option>
-                          <option data-icon="currency-flag currency-flag-huf mr-1" data-subtext="Hungarian forint" value="">HUF</option>
-                          <option data-icon="currency-flag currency-flag-idr mr-1" data-subtext="Indonesian rupiah" value="">IDR</option>
-                          <option data-icon="currency-flag currency-flag-ils mr-1" data-subtext="Israeli shekel" value="">ILS</option>
-                          <option data-icon="currency-flag currency-flag-inr mr-1" data-subtext="Indian rupee" value="">INR</option>
-                          <option data-icon="currency-flag currency-flag-jpy mr-1" data-subtext="Japanese yen" value="">JPY</option>
-                          <option data-icon="currency-flag currency-flag-kes mr-1" data-subtext="Kenyan shilling" value="">KES</option>
-                          <option data-icon="currency-flag currency-flag-krw mr-1" data-subtext="South Korean won" value="">KRW</option>
-                          <option data-icon="currency-flag currency-flag-lkr mr-1" data-subtext="Sri Lankan rupee" value="">LKR</option>
-                          <option data-icon="currency-flag currency-flag-mad mr-1" data-subtext="Moroccan dirham" value="">MAD</option>
-                          <option data-icon="currency-flag currency-flag-mxn mr-1" data-subtext="Mexican peso" value="">MXN</option>
-                          <option data-icon="currency-flag currency-flag-myr mr-1" data-subtext="Malaysian ringgit" value="">MYR</option>
-                          <option data-icon="currency-flag currency-flag-ngn mr-1" data-subtext="Nigerian naira" value="">NGN</option>
-                          <option data-icon="currency-flag currency-flag-nok mr-1" data-subtext="Norwegian krone" value="">NOK</option>
-                          <option data-icon="currency-flag currency-flag-npr mr-1" data-subtext="Nepalese rupee" value="">NPR</option>
-                          <option data-icon="currency-flag currency-flag-nzd mr-1" data-subtext="New Zealand dollar" value="">NZD</option>
-                          <option data-icon="currency-flag currency-flag-pen mr-1" data-subtext="Peruvian nuevo sol" value="">PEN</option>
-                          <option data-icon="currency-flag currency-flag-php mr-1" data-subtext="Philippine peso" value="">PHP</option>
-                          <option data-icon="currency-flag currency-flag-pkr mr-1" data-subtext="Pakistani rupee" value="">PKR</option>
-                          <option data-icon="currency-flag currency-flag-pln mr-1" data-subtext="Polish złoty" value="">PLN</option>
-                          <option data-icon="currency-flag currency-flag-ron mr-1" data-subtext="Romanian leu" value="">RON</option>
-                          <option data-icon="currency-flag currency-flag-rub mr-1" data-subtext="Russian rouble" value="">RUB</option>
-                          <option data-icon="currency-flag currency-flag-sek mr-1" data-subtext="Swedish krona" value="">SEK</option>
-                          <option data-icon="currency-flag currency-flag-sgd mr-1" data-subtext="Singapore dollar" value="">SGD</option>
-                          <option data-icon="currency-flag currency-flag-thb mr-1" data-subtext="Thai baht" value="">THB</option>
-                          <option data-icon="currency-flag currency-flag-try mr-1" data-subtext="Turkish lira" value="">TRY</option>
-                          <option data-icon="currency-flag currency-flag-uah mr-1" data-subtext="Ukrainian hryvnia" value="">UAH</option>
-                          <option data-icon="currency-flag currency-flag-ugx mr-1" data-subtext="Ugandan shilling" value="">UGX</option>
-                          <option data-icon="currency-flag currency-flag-vnd mr-1" data-subtext="Vietnamese dong" value="">VND</option>
-                          <option data-icon="currency-flag currency-flag-zar mr-1" data-subtext="South African rand" value="">ZAR</option>
+                          <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" selected="selected" value="">USD</option> 
                           </optgroup>
                         </select>
                         </span> </div>
                     </div>
                   </div>
+                  <div class="form-group">
+                                           <div class="form-group">
+                                            <label for="receivingOptions">Receiving options</label>
+                                            <div class="input-group">
+                                                <div class="dropdown bootstrap-select form-control"><select id="receivingOptions" data-style="custom-select" class="selectpicker form-control" required="" name="receivingType" tabindex="-98">
+                                                    <option value="">Select option</option>
+                                                    <option value="orangeMoney">Orange Money</option>
+                                                    <option value="mPesa">M-pesa</option>
+                                                    <option value="airtelMoney">Airtel Money</option>
+                                                </select><div class="dropdown-menu " role="combobox"><div class="inner show" role="button" aria-expanded="false" tabindex="-1"><ul class="dropdown-menu inner show"></ul></div></div></div>
+                                                <div class="input-group-append">
+                                                    <ul class="payments-types">
+                                                        <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/orange-money.png" alt="Orange Money" title="" data-original-title="Orange"></a></li>
+                                                        <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/airtel-money.png" alt="Aitel Money" title="" data-original-title="Airtel"></a></li>
+                                                        <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/m-pesa.jpeg" alt="M-Pesa" title="" data-original-title="Vodacom"></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
                   <p class="text-muted mb-1">Total fees  - <span class="font-weight-500">7.21 USD</span></p>
                   <p class="text-muted">The current exchange rate is <span class="font-weight-500">1 USD = 1.42030 AUD</span></p>
                   <button class="btn btn-primary btn-block">Continue</button>
