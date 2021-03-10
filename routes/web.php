@@ -19,6 +19,10 @@ use Illuminate\Support\Facades\Route;
 
 Route :: get('/','TemplateController@index');
 Route :: get('about-us','TemplateController@aboutus');
-Route :: get('/','TemplateController@index');
-Route :: get('/','TemplateController@index');
-Route :: get('/','TemplateController@index');
+Route :: get('help','TemplateController@help');
+Route :: get('contact-us','TemplateController@contactus');
+Route :: get('login','TemplateController@login');
+Route :: get('signup','TemplateController@signup');
+Route :: get('policy','TemplateController@policy');
+Route :: get('terms','TemplateController@terms');
+Route :: get('fees','TemplateController@fees');

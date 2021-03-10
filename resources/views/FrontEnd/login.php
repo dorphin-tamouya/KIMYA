@@ -1,31 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
+    <title>Accueil - KIMYA TRANSFERT</title>
+    
+    <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 <link href="images/favicon.png" rel="icon" />
 <title>Payyed - Money Transfer and Online Payments HTML Template</title>
 <meta name="description" content="This professional design html template is for build a Money Transfer and online payments website.">
-<meta name="author" content="harnishdesign.net">
+<meta name="author" content="harnishdesign.net">  
+    <!-- Web Fonts
+    ============================================= -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i" type="text/css">
 
-<!-- Web Fonts
-============================================= -->
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i' type='text/css'>
+    <!-- Stylesheet
+    ============================================= -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap-select/css/bootstrap-select.css">
+    <link rel="stylesheet" type="text/css" href="vendor/currency-flags/css/currency-flags.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-168122161-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-<!-- Stylesheet
-============================================= -->
-<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css" />
-<link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css" />
-<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
-</head>
+        gtag('config', 'UA-168122161-1');
+    </script>
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700&amp;amp;subset=cyrillic" rel="stylesheet"><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
 <body>
 
 <!-- Preloader -->
 <div id="preloader">
   <div data-loader="dual-ring"></div>
 </div>
-<!-- Preloader End -->
+<!-- Preloader End --> 
 
 <div id="main-wrapper" class="h-100">
   <div class="container-fluid px-0 h-100">
@@ -39,7 +57,7 @@
           <div class="hero-content mx-auto w-100 h-100 d-flex flex-column">
             <div class="row no-gutters">
               <div class="col-10 col-lg-9 mx-auto">
-                <div class="logo mt-5 mb-5 mb-md-0"> <a class="d-flex" href="index.html" title="Payyed - HTML Template"><img src="images/logo-light.png" alt="Payyed"></a> </div>
+                <div class="logo mt-5 mb-5 mb-md-0"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo-light.png" alt="Payyed"></a> </div>
               </div>
             </div>
             <div class="row no-gutters my-auto">
@@ -60,7 +78,7 @@
           <div class="row">
             <div class="col-11 col-lg-9 col-xl-8 mx-auto">
               <h3 class="font-weight-400 mb-4">Log In</h3>
-              <form id="loginForm" method="post">
+              <form id="loginForm" method="get">
                 <div class="form-group">
                   <label for="emailAddress">Email Address</label>
                   <input type="email" class="form-control" id="emailAddress" required placeholder="Enter Your Email">
@@ -80,7 +98,7 @@
                 </div>
                 <button class="btn btn-primary btn-block my-4" type="submit">Login</button>
               </form>
-              <p class="text-3 text-center text-muted">Don't have an account? <a class="btn-link" href="signup.html">Sign Up</a></p>
+              <p class="text-3 text-center text-muted">Don't have an account? <a class="btn-link" href="/signup">Sign Up</a></p>
             </div>
           </div>
         </div>
