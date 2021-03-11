@@ -122,7 +122,7 @@
                     <div class="bg-white shadow-md rounded h-100 p-3">
                         <div class="featured-box text-center">
                             <div class="featured-box-icon text-primary mt-4"> <i class="fas fa-map-marker-alt"></i></div>
-                            <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iCash Congo</font></font></h3>
+                            <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">kimya transfert Congo</font></font></h3>
                             <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7759 avenue des Sénégalais (Nioki crossing) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                                 Kinshasa, DRCongo</font></font></p>
                         </div>
@@ -144,7 +144,7 @@
                         <div class="featured-box text-center">
                             <div class="featured-box-icon text-primary mt-4"> <i class="fas fa-envelope"></i> </div>
                             <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Business inquiries</font></font></h3>
-                            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">info@icash-congo.com</font></font></p>
+                            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">info@kimya transfert-congo.com</font></font></p>
                         </div>
                     </div>
                 </div>
@@ -156,8 +156,8 @@
                         <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For customer support and queries, contact us</font></font></p>
                         <div class="d-flex flex-column">
                             <ul class="social-icons social-icons-lg social-icons-colored justify-content-center">
-                                <li class="social-icons-facebook"><a data-toggle="tooltip" href="https://www.facebook.com/ICash-Congo-137489594713905/" target="_blank" title="" data-original-title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                <li class="social-icons-linkedin"><a data-toggle="tooltip" href="https://www.linkedin.com/company/business-lighthouse-ent/" target="_blank" title="" data-original-title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li class="social-icons-facebook"><a data-toggle="tooltip" href="https://www.facebook.com/Kimya transfert-Congo-137489594713905/" target="_blank" title="" data-original-title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="social-icons-linkedin"><a data-toggle="tooltip" href="https://www.linkedin.com/in/innocent-ngongang1" target="_blank" title="" data-original-title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
                                <!--
                                 <li class="social-icons-instagram"><a data-toggle="tooltip" href="http://www.instagram.com/" target="_blank" title="" data-original-title="Instagram"><i class="fab fa-instagram"></i></a></li>
                                 -->
@@ -181,6 +181,8 @@
         </section>
     </div>
 <!-- Document Wrapper end -->
+
+<!-- footer -->
 <footer id="footer" class="pb-4 hero-bg hero-mask opacity-10">
     <div class="container">
         <div class="row">
@@ -191,23 +193,23 @@
                 <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3">Information</h4>
                 <ul class="nav flex-column">
                     <li class="nav-item">
-                        <a class="nav-link" href="/about-us"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About Us</font></font></a>
+                        <a class="nav-link" href="/about-us">A propos de nous</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/fees"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fresh</font></font></a>
+                        <a class="nav-link" href="/fees">Frais</a>
                     </li>
                 </ul>
             </div>
             <div class="col-sm-6 col-md mb-3 mb-md-0">
-                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Services</font></font></h4>
+                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3">Services</h4>
                 <ul class="nav flex-column">
-                    <li class="nav-item"><a class="nav-link" href="/"><font style="vertical-align: inherit;"><font class="" style="vertical-align: inherit;">Fund mobile wallet</font></font></a></li>
+                    <li class="nav-item"><a class="nav-link" href="/">Approvisionner votre<br><br><br>portefeuille mobile</a></li>
                 </ul>
             </div>
             <div class="col-sm-6 col-md mb-3 mb-md-0">
-                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Help Center</font></font></h4>
+                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3">Centre d'aide</h4>
                 <ul class="nav flex-column">
-                    <li class="nav-item"><a class="nav-link" href="/contact-us"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact</font></font></a></li>
+                    <li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>
                     <li class="nav-item"><a class="nav-link" href="/login">Support</a></li>
                 </ul>
             </div>
@@ -217,19 +219,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 iCash Collect All Rights Reserved. Powered by
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRANSFERT All Rights Reserved. Powered by
                         <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
                 </div>
                 <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">
                     <ul class="nav justify-content-center">
-                        <li class="nav-item"><a class="nav-link" href="/terms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Terms of use</font></font></a></li>
-                        <li class="nav-item"><a class="nav-link" href="/policy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacy Policy</font></font></a></li>
+                        <li class="nav-item"><a class="nav-link" href="/terms">Termes d'utilisation</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/policy">Politique de confidentialité</a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
 </footer>
+<!-- footer end -->
 
 <!-- Back to Top
 ============================================= --> 

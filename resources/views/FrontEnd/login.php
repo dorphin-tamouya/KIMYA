@@ -45,67 +45,140 @@
 </div>
 <!-- Preloader End --> 
 
-<div id="main-wrapper" class="h-100">
-  <div class="container-fluid px-0 h-100">
-    <div class="row no-gutters h-100"> 
-      <!-- Welcome Text
-      ============================================= -->
-      <div class="col-md-6">
-        <div class="hero-wrap d-flex align-items-center h-100">
-          <div class="hero-mask opacity-8 bg-primary"></div>
-          <div class="hero-bg hero-bg-scroll" style="background-image:url('./images/bg/image-3.jpg');"></div>
-          <div class="hero-content mx-auto w-100 h-100 d-flex flex-column">
-            <div class="row no-gutters">
-              <div class="col-10 col-lg-9 mx-auto">
-                <div class="logo mt-5 mb-5 mb-md-0"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo-light.png" alt="Payyed"></a> </div>
-              </div>
+<div id="main-wrapper">
+
+<!-- Header
+  ============================================= -->
+  <header id="header">
+    <div class="container">
+      <div class="header-row">
+        <div class="header-column justify-content-start"> 
+          <!-- Logo
+          ============================= -->
+          <div class="logo"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo.png" alt="Payyed" /></a> </div>
+          <!-- Logo end --> 
+          <!-- Collapse Button
+          ============================== -->
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#header-nav"> <span></span> <span></span> <span></span> </button>
+          <!-- Collapse Button end --> 
+          
+          <!-- Primary Navigation
+          ============================== -->
+          <nav class="primary-menu navbar navbar-expand-lg">
+            <div id="header-nav" class="collapse navbar-collapse">
+              <ul class="navbar-nav mr-auto">
+                <li><a href="/about-us">About Us</a></li>
+                <li><a href="/help">FAQ</a></li>
+                <li><a href="/contact-us">Contact Us</a></li>
+              </ul>
             </div>
-            <div class="row no-gutters my-auto">
-              <div class="col-10 col-lg-9 mx-auto">
-                <h1 class="text-11 text-white mb-4">Welcome back!</h1>
-                <p class="text-4 text-white line-height-4 mb-5">We are glad to see you again! Instant deposits, withdrawals & payouts trusted by millions worldwide.</p>
-              </div>
-            </div>
-          </div>
+          </nav>
+          <!-- Primary Navigation end --> 
+        </div>
+        <div class="header-column justify-content-end"> 
+          <!-- Login & Signup Link
+          ============================== -->
+          <nav class="login-signup navbar navbar-expand">
+            <ul class="navbar-nav">
+              <li><a href="/login">Login</a> </li>
+              <li class="align-items-center h-auto ml-sm-3"><a class="btn btn-primary" href="/signup">Sign Up</a></li>
+            </ul>
+          </nav>
+          <!-- Login & Signup Link end --> 
         </div>
       </div>
-      <!-- Welcome Text End --> 
-      
-      <!-- Login Form
-      ============================================= -->
-      <div class="col-md-6 d-flex align-items-center">
-        <div class="container my-4">
-          <div class="row">
-            <div class="col-11 col-lg-9 col-xl-8 mx-auto">
-              <h3 class="font-weight-400 mb-4">Log In</h3>
-              <form id="loginForm" method="get">
-                <div class="form-group">
-                  <label for="emailAddress">Email Address</label>
-                  <input type="email" class="form-control" id="emailAddress" required placeholder="Enter Your Email">
-                </div>
-                <div class="form-group">
-                  <label for="loginPassword">Password</label>
-                  <input type="password" class="form-control" id="loginPassword" required placeholder="Enter Password">
-                </div>
-                <div class="row">
-                  <div class="col-sm">
-                    <div class="form-check custom-control custom-checkbox">
-                      <input id="remember-me" name="remember" class="custom-control-input" type="checkbox">
-                      <label class="custom-control-label" for="remember-me">Remember Me</label>
-                    </div>
+    </div>
+  </header>
+  <!-- Header End --> 
+   <!-- Content
+  ============================================= -->
+  <div id="content">
+    <div class="container py-5">
+      <div class="row">
+        <div class="col-md-9 col-lg-7 col-xl-5 mx-auto">
+          <div class="bg-white shadow-md rounded p-3 pt-sm-4 pb-sm-5 px-sm-5">
+            <h3 class="font-weight-400 text-center mb-4">Log In</h3>
+            <hr class="mx-n5">
+            <p class="lead text-center">We are glad to see you again!</p>
+            <form id="loginForm" method="post">
+              <div class="form-group">
+                <label for="emailAddress">Email Address</label>
+                <input type="email" class="form-control" id="emailAddress" required placeholder="Enter Your Email">
+              </div>
+              <div class="form-group">
+                <label for="loginPassword">Password</label>
+                <input type="password" class="form-control" id="loginPassword" required placeholder="Enter Password">
+              </div>
+              <div class="row">
+                <div class="col-sm">
+                  <div class="form-check custom-control custom-checkbox">
+                    <input id="remember-me" name="remember" class="custom-control-input" type="checkbox">
+                    <label class="custom-control-label" for="remember-me">Remember Me</label>
                   </div>
-                  <div class="col-sm text-right"><a class="btn-link" href="#">Forgot Password ?</a></div>
                 </div>
-                <button class="btn btn-primary btn-block my-4" type="submit">Login</button>
-              </form>
-              <p class="text-3 text-center text-muted">Don't have an account? <a class="btn-link" href="/signup">Sign Up</a></p>
-            </div>
+                <div class="col-sm text-right"><a class="btn-link" href="/contact-us">Forgot Password ?</a></div>
+              </div>
+              <button class="btn btn-primary btn-block my-4" type="submit">Log In</button>
+            </form>
+            <p class="text-3 text-muted text-center mb-0">Don't have an account? <a class="btn-link" href="/signup">Sign Up</a></p>
           </div>
         </div>
       </div>
-      <!-- Login Form End --> 
     </div>
   </div>
+  <!-- Content end --> 
+   <!-- Footer
+  ============================================= -->
+  <footer id="footer" class="pb-4 hero-bg hero-mask opacity-10">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md mb-3 mb-md-0">
+
+            </div>
+            <div class="col-sm-6 col-md mb-3 mb-md-0">
+                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3">Information</h4>
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/about-us">A propos de nous</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/fees">Frais</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-6 col-md mb-3 mb-md-0">
+                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3">Services</h4>
+                <ul class="nav flex-column">
+                    <li class="nav-item"><a class="nav-link" href="/">Approvisionner votre<br><br><br>portefeuille mobile</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-6 col-md mb-3 mb-md-0">
+                <h4 class="text-3 text-muted text-uppercase font-weight-400 mb-3">Centre d'aide</h4>
+                <ul class="nav flex-column">
+                    <li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/login">Support</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright pt-4 mt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRANSFERT All Rights Reserved. Powered by
+                        <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
+                </div>
+                <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">
+                    <ul class="nav justify-content-center">
+                        <li class="nav-item"><a class="nav-link" href="/terms">Termes d'utilisation</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/policy">Politique de confidentialité</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  <!-- Footer end --> 
 </div>
 
 <!-- Back to Top

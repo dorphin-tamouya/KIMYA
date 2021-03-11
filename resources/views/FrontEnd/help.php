@@ -96,9 +96,9 @@
   ============================================= -->
   <div id="content">
         <section class="page-header page-header-text-light py-0 mb-0">
-            <section class="hero-wrap section">
+            <section class="hero-wrap section" >
                 <div class="hero-mask"></div>
-                <div class="hero-bg hero-bg-scroll" style="background-image:url('./images/ic/faq/faq.jpg');"></div>
+                <div class="hero-bg hero-bg-default" style="background-image:url('./images/ic/faq.jpg');"></div>
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
@@ -118,7 +118,7 @@
 
         <!-- Popular Topics
         ============================================= -->
-        <section class="section bg-white">
+        <section class="section bg-white" >
             <div class="container">
                 <h2 class="text-9 text-center">Sujets Populaires</h2>
                 <p class="text-4 text-center mb-5">Les réponses aux questions que vous vous posez le plus souvent</p>
@@ -138,7 +138,7 @@
                                         <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
                                             <div class="card-body">
                                                 Trois étapes <br>
-                                                1 - S’identifier et s’enregistrer sur www.icash-congo.com <br>
+                                                1 - S’identifier et s’enregistrer sur www.kimyatransfert-congo.com <br>
                                                 2 - Renseigner le montant souhaité, le numéro du bénéficiaire ainsi que ses coordonées<br>
                                                 3 - Valider l’opération et le bénéficiaire recevra le montant de la transaction dans son portefeuille électronique (mobile money) dans les 24h. <br>
                                             </div>
@@ -148,7 +148,7 @@
                                         <div class="card-header" id="heading2">
                                             <h5 class="mb-0">
                                                 <a href="" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                                    Quels sont les frais et les tarifs avec iCash collect ?
+                                                    Quels sont les frais et les tarifs avec kimya transfertrt ?
                                                 </a>
                                             </h5>
                                         </div>
@@ -201,7 +201,7 @@
                                         </div>
                                         <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#popularTopics">
                                             <div class="card-body">
-                                                iCash collect vous propose les tarifs les plus justes, tout en vous permettant de bénéficier d’une nouvelle experience totalement digitale. <br>
+                                                kimya transfert vous propose les tarifs les plus justes, tout en vous permettant de bénéficier d’une nouvelle experience totalement digitale. <br>
                                                 Le point le plus important réside dans la facilité de receptioner le paiement : Mobile money.
                                             </div>
                                         </div>
@@ -223,10 +223,10 @@
                                                 Ne vous inquiétez pas ! nous sommes là pour vous.
                                                 L’évolution du statut de votre transfert est consultable en temps réel depuis votre espace client.
                                                 Nous vous aidons rapidement et efficacement par mail dès que vous vous adressez à nos par courrier à cette
-                                                adresse support@icash-collect.com. Notre equipe est bilingue et peut donc communiquer avec vous en français et en anglais. <br>
+                                                adresse support@kimya-transfert.com. Notre equipe est bilingue et peut donc communiquer avec vous en français et en anglais. <br>
 
                                                 Nous sommes joignable du lundi au samedi de 9h à 20h par téléphone au xxxxxx
-                                                Et par mail à support@icash-collect.com <br>
+                                                Et par mail à support@kimya-transfert.com <br>
 
                                                 Nous tenons imperativement à vous offrir le meilleur des services et si nous sommes dans l’incapacité de procéder à votre transfert, nous vous le remboursons.
                                             </div>
@@ -291,11 +291,11 @@
 
         <!-- Can't find
         ============================================= -->
-        <section class="section py-4 my-4 py-sm-5 my-sm-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="bg-white shadow-sm rounded pl-4 pl-sm-0 pr-4 py-4">
+        <section class="section py-4 my-4 py-sm-5 my-sm-5" style="background-image:url('./images/ic/faq.jpg');">
+            <div class="container" >
+                <div class="row" >
+                    <div class="col-lg-6" >
+                        <div class="bg-white shadow-sm rounded pl-4 pl-sm-0 pr-4 py-4" >
                             <div class="row no-gutters">
                                 <div class="col-12 col-sm-auto text-13 text-light d-flex align-items-center justify-content-center"> <span class="px-4 ml-3 mr-2 mb-4 mb-sm-0"><i class="far fa-envelope"></i></span> </div>
                                 <div class="col text-center text-sm-left">
@@ -303,7 +303,7 @@
                                         <h5 class="text-3 text-body">Vous ne trouvez pas ce que vous cherchez?</h5>
                                         <p class="text-muted mb-0">
                                             Nous voulons répondre à toutes vos questions. Contactez-nous et nous vous répondrons dans les plus brefs délais.
-                                            <a class="btn-link" href="">Contactez nous
+                                            <a class="btn-link" href="/contact-us">Contactez nous
                                                 <span class="text-1 ml-1">
                                                     <i class="fas fa-chevron-right"></i>
                                                 </span>
@@ -323,7 +323,7 @@
                                         <h5 class="text-3 text-body">Questions techniques</h5>
                                         <p class="text-muted mb-0">
                                             Vous avez des questions techniques? Contactez-nous via le support.
-                                            <a class="btn-link" href="/support">
+                                            <a class="btn-link" href="/login">
                                                 Cliquez ici
                                                 <span class="text-1 ml-1"><i class="fas fa-chevron-right"></i></span></a>
                                         </p>
@@ -380,7 +380,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 iCash Collect All Rights Reserved. Powered by
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRASFERT All Rights Reserved. Powered by
                         <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
                 </div>
                 <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">

@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 iCash Collect All Rights Reserved. Powered by
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRANSFERT All Rights Reserved. Powered by
                         <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
                 </div>
                 <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">

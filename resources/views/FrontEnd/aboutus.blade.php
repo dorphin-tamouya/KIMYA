@@ -82,7 +82,7 @@
           ============================== -->
           <nav class="login-signup navbar navbar-expand">
             <ul class="navbar-nav">
-              <li><a href="/logi.">Login</a> </li>
+              <li><a href="/login">Login</a> </li>
               <li class="align-items-center h-auto ml-sm-3"><a class="btn btn-primary" href="/signup">Sign Up</a></li>
             </ul>
           </nav>
@@ -103,9 +103,10 @@
       <div class="container">
         <div class="row">
           <div class="col-12 text-center">
-            <h1 class="text-11 font-weight-500 text-white mb-3">About Payyed</h1>
+            <h1 class="text-11 font-weight-500 text-white mb-3">About KIMYA</h1>
             <p class="text-5 text-white line-height-4 mb-4">Our mission is to help you save on transfer fees and exchange rates!</p>
-            <a href="#" class="btn btn-primary m-2">Open a Free Account</a> <a class="btn btn-outline-light video-btn m-2" href="#" data-src="https://www.youtube.com/embed/7e90gBu4pas" data-toggle="modal" data-target="#videoModal"><span class="mr-2"><i class="fas fa-play-circle"></i></span>See How it Works</a> </div>
+            <a href="/login" class="btn btn-primary m-2 btn-center">Open a Free Account</a>
+           </div>
         </div>
       </div>
     </div>
@@ -125,14 +126,14 @@
             <div class="col-lg-6 d-flex">
                 <div class="my-auto px-0 px-lg-5 mx-2">
                     <h2 class="text-9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Presentation</font></font></h2>
-                    <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iCash Collect is a solution created by Congolese to meet our money transfer needs.</font></font></p>
-                    <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iCash collect is a money transfer platform to the DRC and we offer money transfer services nationally and internationally.</font></font></p>
+                    <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">kimya transfert is a solution created by Congolese to meet our money transfer needs.</font></font></p>
+                    <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">kimya transfert is a money transfer platform to the DRC and we offer money transfer services nationally and internationally.</font></font></p>
                     <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Supply mobile wallets wherever you are in the world to the DRC but also from the DRC to the DRC.</font></font></p>
                     <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Receive mobile money anytime and anywhere in the DRC directly to your phones via your mobile money accounts (Airtel money, Orange money and M-pesa). </font><font style="vertical-align: inherit;">No need to travel and no need to be connected to the internet to receive money.</font></font></p>
                     <p class="text-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We only charge a nominal fee for each payment processed successfully.</font></font></p>
                 </div>
             </div>
-            <div class="col-lg-6 my-auto text-center"> <img class="img-fluid shadow-lg rounded-lg" src="images/ic/about-us/app_icash.png" alt=""> </div>
+            <div class="col-lg-6 my-auto text-center"> <img class="img-fluid shadow-lg rounded-lg" src="images/ic/monitor.jpg" alt=""> </div>
         </div>
     </div>
 </section>
@@ -146,10 +147,10 @@
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="row">
                     <div class="col-6 col-lg-7 ml-auto mb-lg-n5">
-                        <img class="img-fluid rounded-lg shadow-lg" src="images/ic/values.jpg" alt="banner">
+                        <img class="img-fluid rounded-lg shadow-lg" src="images/ic/values2.jpg" alt="banner">
                     </div>
                     <div class="col-6 col-lg-8 mt-lg-n5">
-                        <img class="img-fluid rounded-lg shadow-lg" src="images/ic/values2.jpg" alt="banner">
+                        <img class="img-fluid rounded-lg shadow-lg" src="images/ic/values.jpg" alt="banner">
                     </div>
                 </div>
             </div>
@@ -157,11 +158,11 @@
                 <div class="my-auto px-0 px-lg-5">
                     <h2 class="text-9 mb-4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Good to know</font></font></h2>
                     <h4 class="text-4 font-weight-500"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exchange rate</font></font></h4>
-                    <p class="tex-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICASH collect collects between 3% and 5% per foreign exchange transaction.</font></font></p>
+                    <p class="tex-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kimya transfert collects between 3% and 5% per foreign exchange transaction.</font></font></p>
                     <h4 class="text-4 font-weight-500 mb-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Deposit on foreign account</font></font></h4>
-                    <p class="tex-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To reduce cash flow overhead, ICASH Collect will hold cash in multiple currencies with different currencies.</font></font></p>
+                    <p class="tex-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To reduce cash flow overhead, Kimya transfert will hold cash in multiple currencies with different currencies.</font></font></p>
                     <h4 class="text-4 font-weight-500 mb-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Transfer fee</font></font></h4>
-                    <p class="tex-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICASH Collect is remunerated with commission fees for each transfer transaction processed on the platform.</font></font></p>
+                    <p class="tex-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kimya transfert is remunerated with commission fees for each transfer transaction processed on the platform.</font></font></p>
                 </div>
             </div>
         </div>
@@ -172,60 +173,27 @@
 <!-- Our Investors
 ============================================= -->
 <section class="section bg-white">
-    <div class="container">
-        <h2 class="text-9 text-center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our partners</font></font></h2>
-        <p class="text-4 text-center mb-5"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our partners work daily on solutions and supports to meet your needs.</font></font></p>
-        <div class="owl-carousel owl-theme owl-loaded owl-drag" data-autoplay="true" data-nav="true" data-loop="true" data-margin="30" data-slideby="2" data-stagepadding="5" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="6">
-            
-            
-            
-            
-            
-            
-            
-        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2126px, 0px, 0px); transition: all 0.5s ease 0s; width: 3684px; padding-left: 5px; padding-right: 5px;"><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/paypal.jpg" alt="partner 2"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/blthouse.png" alt="partner 6"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/vraikop.png" alt="partner 7"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/welike.jpg" alt="partner 4"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/kobo_hub.jpg" alt="partner 5"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/vperle.png" alt="partner 11"></a></div></div><div class="owl-item" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/amazon.jpg" alt="partner 1"></a></div></div><div class="owl-item" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/paypal.jpg" alt="partner 2"></a></div></div><div class="owl-item" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/blthouse.png" alt="partner 6"></a></div></div><div class="owl-item" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/vraikop.png" alt="partner 7"></a></div></div><div class="owl-item" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/welike.jpg" alt="partner 4"></a></div></div><div class="owl-item active" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/kobo_hub.jpg" alt="partner 5"></a></div></div><div class="owl-item active" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/vperle.png" alt="partner 11"></a></div></div><div class="owl-item cloned active" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/amazon.jpg" alt="partner 1"></a></div></div><div class="owl-item cloned active" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/paypal.jpg" alt="partner 2"></a></div></div><div class="owl-item cloned active" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/blthouse.png" alt="partner 6"></a></div></div><div class="owl-item cloned active" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/vraikop.png" alt="partner 7"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/welike.jpg" alt="partner 4"></a></div></div><div class="owl-item cloned" style="width: 163.333px; margin-right: 30px;"><div class="item"><a href="#"><img class="img-fluid" src="images/partner/kobo_hub.jpg" alt="partner 5"></a></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-chevron-right"></i></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
-    </div>
-</section>
+            <div class="container">
+                <h2 class="text-9 text-center">Our partners</h2>
+                <p class="text-4 text-center mb-5">Our partners work daily on solutions and supports to meet your needs.</p>
+                <div class="owl-carousel owl-theme" data-autoplay="true" data-nav="true"
+                     data-loop="true" data-margin="30" data-slideby="2" data-stagepadding="5" data-items-xs="2"
+                     data-items-sm="3" data-items-md="4" data-items-lg="6">
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/orange-money.png" alt="partner 1" /></a></div>
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/airtel-money.png" alt="partner 2" /></a></div>
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/m-pesa.jpeg" alt="partner 6" /></a></div>
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/orange-money.png" alt="partner 7" /></a></div>
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/airtel-money.png" alt="partner 4" /></a></div>
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/m-pesa.jpeg" alt="partner 5" /></a></div>
+                    <div class="item"><a href="#"><img class="img-fluid" src="images/sending/airtel-money.png" alt="partner 11" /></a></div>
+                </div>
+            </div>
+        </section>
 <!-- Our Investors end -->
 
 <!-- JOIN US
 ============================================= -->
-<section class="section bg-primary py-5">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-sm-6 col-md-3">
-                <div class="featured-box text-center">
-                    <div class="featured-box-icon text-light mb-2"> <i class="fas fa-globe"></i> </div>
-                    <h4 class="text-12 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">50+</font></font></h4>
-                    <p class="text-4 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Country</font></font></p>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="featured-box text-center">
-                    <div class="featured-box-icon text-light mb-2"> <i class="fas fa-dollar-sign"></i> </div>
-                    <h4 class="text-12 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4</font></font></h4>
-                    <p class="text-4 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Currencies</font></font></p>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
-                <div class="featured-box text-center">
-                    <div class="featured-box-icon text-light mb-2"> <i class="fas fa-users"></i> </div>
-                    <h4 class="text-12 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Numerous</font></font></h4>
-                    <p class="text-4 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Users</font></font></p>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
-                <div class="featured-box text-center">
-                    <div class="featured-box-icon text-light mb-2">
-                        <i class="far fa-life-ring"></i>
-                    </div>
-                    <h4 class="text-12 text-white mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">24X7</font></font></h4>
-                    <p class="text-4 text-white mb-0">Support</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    </section>
+
  <!-- JOIN US end -->
 
  </div>    

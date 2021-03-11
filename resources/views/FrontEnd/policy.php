@@ -124,11 +124,11 @@
                 </h4>
 
                 <p>
-                    La confiance et la sécurité contribuent largement à faire de iCash Collect le meilleur moyen d’envoyer de l’argent vers la RDC.
+                    La confiance et la sécurité contribuent largement à faire de kimya transfert le meilleur moyen d’envoyer de l’argent vers la RDC.
                     <br>
                     Nous accordons beaucoup d’importance à votre vie privée et souhaitons donc vous informer de ce que nous faisons pour assurer la sécurité de vos données.
                     <br>
-                    Dans cette politique, nous expliquons comment iCash Collect collecte, gère, utilise et protège vos données.
+                    Dans cette politique, nous expliquons comment kimya transfert , gère, utilise et protège vos données.
                 </p>
             </div>
 
@@ -138,7 +138,7 @@
                 </h4>
 
                 <p>
-                    iCash Collect est un service de transfert d’argent en ligne dont la mission est de rendre le transfert d’argent international vers la RDCongo plus rapide, plus facile et plus économique.
+                    kimya transfert est un service de transfert d’argent en ligne dont la mission est de rendre le transfert d’argent international vers la RDCongo plus rapide, plus facile et plus économique.
                 </p>
             </div>
 
@@ -165,11 +165,11 @@
                     </ul>
                 </div>
                 <p>
-                    Ces données sont nécessaires à iCash Collect pour vous fournir le Service.
+                    Ces données sont nécessaires à kimya transfert pour vous fournir le Service.
                     Nous vous demanderons ces données lors de votre inscription, avant d’utiliser certaines fonctionnalités de notre plateforme.
                 </p>
                 <p>
-                    iCash Collect est légalement tenu de collecter, de vérifier et d’enregistrer certaines données vous concernant ou concernant les destinataires de vos transactions.
+                    kimya transfert est légalement tenu de collecter, de vérifier et d’enregistrer certaines données vous concernant ou concernant les destinataires de vos transactions.
                     Tous les types de données que nous collectons peuvent être utilisés pour prévenir ou détecter le crime.
 
                     <br>
@@ -190,7 +190,7 @@
                     </ul>
 
                     <p>
-                        iCash Collect collecte ces données uniquement lorsque vous fournissez l’autorisation appropriée sur les sites de réseaux sociaux.
+                        kimya transfert collecte ces données uniquement lorsque vous fournissez l’autorisation appropriée sur les sites de réseaux sociaux.
                         <br>
                         Des données techniques, telles que (mais sans s’y limiter) :
                     </p>
@@ -225,7 +225,7 @@
                 <div>
                     <h5>À des fins réglementaires</h5>
                     <p>
-                        iCash Collect et ses partenaires sont tenus d’effectuer des vérifications d’identité des clients (KYC)
+                        kimya transfert et ses partenaires sont tenus d’effectuer des vérifications d’identité des clients (KYC)
                         et de diligence raisonnable à l’égard de la clientèle (CDD) afin de se conformer à nos exigences légales.
                         <br>
                         Celles-ci comprennent nos exigences en vertu de la législation relative à la lutte contre le blanchiment d’argent (LBA) et le financement du terrorisme (FT).
@@ -259,7 +259,7 @@
 
                 <p>
                     Toutes les données que vous nous fournissez sont cryptées sur nos serveurs sécurisés.
-                    Nous limitons l’accès à vos données à des employés spécifiques d’iCash Collect qui ont une bonne raison de les traiter,
+                    Nous limitons l’accès à vos données à des employés spécifiques d’kimya transfert qui ont une bonne raison de les traiter,
                     aux fins de l’activité de l’entreprise.
                     Nos communications sont cryptées.
                     <br>
@@ -292,7 +292,7 @@
                         Dans les situations où vous nous donnez votre consentement spécifique pour traiter certains types de données, vous pouvez retirer ce consentement à tout moment.
                         Nous cesserons alors de traiter vos données et, si le délai de conservation de cinq ans ne s’applique pas, nous effacerons également vos données de notre système.
                         <br>
-                        Nous pouvons conserver toutes les données mentionnées ci-dessus pendant une période plus longue, si cela s’avère nécessaire pour protéger les droits, la propriété ou la sécurité de iCash Collect ou du Service fourni par nos soins ou par nos partenaires.
+                        Nous pouvons conserver toutes les données mentionnées ci-dessus pendant une période plus longue, si cela s’avère nécessaire pour protéger les droits, la propriété ou la sécurité de kimya transfert ou du Service fourni par nos soins ou par nos partenaires.
                     </p>
                 </div>
             </div>
@@ -316,7 +316,7 @@
                     Voici quelques-unes des raisons qui peuvent nous amener à partager vos données avec des tiers :
                 </p>
                 <div>
-                    <h5>Pour remplir le contrat entre vous et iCash Collect</h5>
+                    <h5>Pour remplir le contrat entre vous et kimya transfert</h5>
                     <p>
                         Nous pouvons partager vos données avec des tiers, tels que nos partenaires et intermédiaires, lorsqu’ils sont nécessaires à l’exécution du Service.
                     </p>
@@ -348,7 +348,7 @@
                     <br>
                     qui sont énumérés ci-dessous.
                     <br>
-                    Il existe certaines exceptions où ces droits peuvent être supplantés par des lois et d’autres exigences applicables aux institutions financières réglementées comme iCash Collect.
+                    Il existe certaines exceptions où ces droits peuvent être supplantés par des lois et d’autres exigences applicables aux institutions financières réglementées comme kimya transfert.
                     C’est le cas, par exemple, pour le délai de conservation obligatoire, qui supplante le droit à l’effacement des données.
                 </p>
 
@@ -384,7 +384,7 @@
 
                     <br>
 
-                    Nous sommes convaincus que si vous êtes un client actif de iCash Collect, il est dans votre intérêt de recevoir des informations ponctuelles sur notre Service. Ainsi, nous pouvons vous envoyer des communications concernant des offres ou des promotions qui, selon nous, peuvent vous concerner, en nous appuyant sur votre utilisation antérieure du Service. Si nous remarquons que vous rencontrez des problèmes lors de l’utilisation de notre Service, nous pouvons, de notre propre initiative, décider de vous contacter, dans certains cas par téléphone, pour vous proposer de l’aide.
+                    Nous sommes convaincus que si vous êtes un client actif de kimya transfert, il est dans votre intérêt de recevoir des informations ponctuelles sur notre Service. Ainsi, nous pouvons vous envoyer des communications concernant des offres ou des promotions qui, selon nous, peuvent vous concerner, en nous appuyant sur votre utilisation antérieure du Service. Si nous remarquons que vous rencontrez des problèmes lors de l’utilisation de notre Service, nous pouvons, de notre propre initiative, décider de vous contacter, dans certains cas par téléphone, pour vous proposer de l’aide.
 
                     <br>
 
@@ -396,7 +396,7 @@
 
                     <br>
 
-                    Vous pouvez à tout moment vous opposer au traitement de données basé sur notre intérêt légitime en nous contactant à l’adresse privacy@icash-congo.com ou en modifiant les paramètres de votre compte iCash Collect.
+                    Vous pouvez à tout moment vous opposer au traitement de données basé sur notre intérêt légitime en nous contactant à l’adresse privacy@kimyatransfert-congo.com ou en modifiant les paramètres de votre compte kimya transfert.
 
                 </p>
 
@@ -408,7 +408,7 @@
                 </h4>
 
                 <p>
-                    Les cookies sont des petits fichiers de texte stockés sur votre appareil lorsque vous accédez à iCash Col-lect.
+                    Les cookies sont des petits fichiers de texte stockés sur votre appareil lorsque vous accédez à kimya transfert.
                     Ils nous permettent de vous reconnaître et de stocker des données sur votre activité antérieure et vos préférences afin que nous puissions personnaliser et améliorer le service que nous vous proposons.
                 </p>
                 <p>
@@ -480,7 +480,7 @@
                 </h4>
 
                 <p>
-                    iCash Collect peut modifier cette Politique de confidentialité de temps en temps. Tout changement entrera en vigueur immédiatement, sauf indication contraire. La date de la mise à jour la plus récente est affichée en haut de la page.
+                    kimya transfert peut modifier cette Politique de confidentialité de temps en temps. Tout changement entrera en vigueur immédiatement, sauf indication contraire. La date de la mise à jour la plus récente est affichée en haut de la page.
                     <br>
                     Tout litige ou toute réclamation découlant de cette Politique de confidentialité sera examiné(e) par rapport à la version anglaise uniquement.
                 </p>
@@ -492,7 +492,7 @@
                 </h4>
 
                 <p>
-                    iCash Collect dispose d’un Délégué à la protection des données qui est responsable des questions liées au respect de la vie privée ainsi qu’à la protection et à la sécurité des données. Notre Délégué à la protection des données peut être contacté à l’adresse privacy@icash-congo.com.
+                    kimya transfert dispose d’un Délégué à la protection des données qui est responsable des questions liées au respect de la vie privée ainsi qu’à la protection et à la sécurité des données. Notre Délégué à la protection des données peut être contacté à l’adresse privacy@kimya transfert-congo.com.
                 </p>
             </div>
         </div>
@@ -538,7 +538,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 iCash Collect All Rights Reserved. Powered by
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRANSFERT All Rights Reserved. Powered by
                         <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
                 </div>
                 <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">

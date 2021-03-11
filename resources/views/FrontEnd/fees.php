@@ -25,6 +25,8 @@
     <link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-168122161-1"></script>
     <script>
@@ -56,7 +58,7 @@
         <div class="header-column justify-content-start"> 
           <!-- Logo
           ============================= -->
-          <div class="logo"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo.png" alt="Payyed" /></a> </div>
+          <div class="logo"> <a class="d-flex" href="/" title="Kimya - HTML Template"><img src="images/logo.png" alt="Kimya" /></a> </div>
           <!-- Logo end --> 
           <!-- Collapse Button
           ============================== -->
@@ -105,12 +107,6 @@
                         </h1>
                         <p class="text-5 text-white line-height-4 mb-4">L'inscription pour ouvrir un compte est GRATUITE.</p>
                         <a href="/signup" class="btn btn-primary my-2 mr-2">Ouvrez un compte gratuit</a>
-                        <a class="btn btn-link text-light video-btn my-2" href="" data-src="https://www.youtube.com/embed/7e90gBu4pas" data-toggle="modal" data-target="#videoModal">
-                            <span class="mr-2">
-                                <i class="fas fa-play-circle"></i>
-                            </span>
-                            <span>Comment ça marche</span>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -180,7 +176,7 @@
                             <div class="featured-box style-4 py-2">
                                 <div class="featured-box-icon text-light border rounded-circle shadow-none"> <i class="fas fa-user"></i> </div>
                                 <h3 class="text-body text-7 mb-3">Frais administrative</h3>
-                                <p class="text-4 line-height-4">Continuez à utiliser votre compte iCash collect et vous ne serez jamais facturé de frais administratifs</p>
+                                <p class="text-4 line-height-4">Continuez à utiliser votre compte kimya transfert et vous ne serez jamais facturé de frais administratifs</p>
                                 <div class="text-primary text-10 pt-3 pb-4 mb-2">Gratuit</div>
                             </div>
                         </div>
@@ -245,7 +241,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 iCash Collect All Rights Reserved. Powered by
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRANSFERT All Rights Reserved. Powered by
                         <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
                 </div>
                 <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">

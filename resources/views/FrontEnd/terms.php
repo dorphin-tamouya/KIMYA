@@ -130,10 +130,10 @@
                     ou encore concernant leur objet ou leur conclusion (y compris les différends ou réclamations de nature extra-contractuelle) sera traité(e) exclusivement à la lumière des dispositions de la version anglaise de ces Conditions générales.
                 </li>
                 <li>
-                    1.3 Dans le cadre des présentes, les termes « iCash collect », « nous », « notre » et « nos » désignent iCash collect (produit de Businesslighthouse), et les termes « vous », « votre », « vos » et « vôtre » se référent à toute personne qui accède au service ou qui utilise ce dernier en qualité d’expéditeur.
+                    1.3 Dans le cadre des présentes, les termes « kimya transfert », « nous », « notre » et « nos » désignent kimya transfert (produit de Businesslighthouse), et les termes « vous », « votre », « vos » et « vôtre » se référent à toute personne qui accède au service ou qui utilise ce dernier en qualité d’expéditeur.
                     <br>
                     Veuillez noter que l’accès au service et son utilisation par vos soins sont subordonnés à l’acceptation de votre part des présentes Conditions générales. Vous pouvez à tout moment demander de recevoir une copie de ces Conditions générales par courrier postal ou électronique.
-                    Veuillez envoyer un courrier électronique à l’adresse hello@icash-congo.com.
+                    Veuillez envoyer un courrier électronique à l’adresse hello@kimyatransfert-congo.com.
                 </li>
             </ul>
 
@@ -144,10 +144,10 @@
 
                 <ul>
                     <li>
-                        2.1 « Application » : désigne une application pour téléphone mobile iCash collect gérée par iCash collect pour fournir des services en ligne de transfert de fonds, ainsi que les informations y afférentes ;
+                        2.1 « Application » : désigne une application pour téléphone mobile kimya transfert gérée par kimya transfert pour fournir des services en ligne de transfert de fonds, ainsi que les informations y afférentes ;
                     </li>
                     <li>
-                        2.2 « Agent de conformité » : désigne un ou plusieurs membres du personnel d’iCash collect ou des socié-tés de son groupe chargé(s) de vérifier le respect de la réglementation relative aux transferts de fonds, de lutte contre la blanchiment de capitaux et toutes autres lois applicables ;
+                        2.2 « Agent de conformité » : désigne un ou plusieurs membres du personnel d’kimya transfert ou des socié-tés de son groupe chargé(s) de vérifier le respect de la réglementation relative aux transferts de fonds, de lutte contre la blanchiment de capitaux et toutes autres lois applicables ;
                     </li>
                     <li>
                         2.3 « Commission(s) » : désigne(nt) les frais et honoraires que nous facturons en contrepartie de la four-niture du service, en fonction des cas et conformément au barème de prix publié sur le site Internet et/ou l’application, ou encore les prix ou taux que nous vous communiquons avant d’émettre une confirmation, ou comme prévu au sein des présentes Conditions générales ;
@@ -167,7 +167,7 @@
                         2.7 « Règlementations applicables aux transferts de fonds » : désigne les lois applicables des pays à partir desquel les fonds sont transférés, ou encore du pays dans lequel les fonds doivent être réceptionnés, rela-tives aux services (électroniques) de transfert de fonds ;
                     </li>
                     <li>
-                        2.8 « Finalité interdite » : désigne toute finalité illégale (et cela que l’illégalité existe dans le pays à partir duquel les fonds sont transférés ou dans celui où ils doivent être réceptionnés, ou encore sur tout autre territoire disposant d’une juridiction sur iCash collect,
+                        2.8 « Finalité interdite » : désigne toute finalité illégale (et cela que l’illégalité existe dans le pays à partir duquel les fonds sont transférés ou dans celui où ils doivent être réceptionnés, ou encore sur tout autre territoire disposant d’une juridiction sur kimya transfert,
                         l’expéditeur ou le bénéficiaire), y compris, à titre non limitatif, le transfert ou la réception de paiements en contrepartie d’activités illicites, le transfert de fonds qui constituent les recettes d’un délit ou d’un acte de blanchiment de capitaux ou obtenus dans le cadre d’une activité illégale,
                         ou le transfert de fonds dans le but de financer une activité illégale ou pour éviter leur saisie par les autorités policières ou judiciaires, et tout transfert de fonds effectué sans l’autorisation de leur propriétaire ;
                     </li>
@@ -184,7 +184,7 @@
                         2.12 « Transaction » : désigne toute opération de transfert de fonds initiée par vos soins par le biais du service et/ou toute autre utilisation que vous pourriez faire de ce dernier ;
                     </li>
                     <li>
-                        2.13 « Site Internet » : désigne le site Internet icashcollect-congo.com géré par iCash collect pour fournir des services en ligne de transfert de fonds, ainsi que les informations y afférentes.
+                        2.13 « Site Internet » : désigne le site Internet kimya transfertcollect-congo.com géré par kimya transfert pour fournir des services en ligne de transfert de fonds, ainsi que les informations y afférentes.
                     </li>
                 </ul>
             </div>
@@ -196,13 +196,13 @@
 
                 <ul>
                     <li>
-                        3.1 iCash collect gère un site Internet et une Application vous permettant de procéder à des transferts de fonds par le biais d’un dispositif connecté à Internet et/ou d’un téléphone mobile.
+                        3.1 kimya transfert collect gère un site Internet et une Application vous permettant de procéder à des transferts de fonds par le biais d’un dispositif connecté à Internet et/ou d’un téléphone mobile.
                     </li>
                     <li>
-                        3.2 iCash collect est un produit de Businesslighthouse société constituée et agréée en vertu du droit
+                        3.2 kimya transfert collect est un produit de Businesslighthouse société constituée et agréée en vertu du droit
                     </li>
                     <li>
-                        3.3 Vous pouvez nous contacter en empruntant l’un des moyens suivants : Par courrier électronique à l’adresse suivante : hello@icash-congo.com, Site Internet : www.icash-congo.com
+                        3.3 Vous pouvez nous contacter en empruntant l’un des moyens suivants : Par courrier électronique à l’adresse suivante : hello@kimya transfert-congo.com, Site Internet : www.kimya transfert-congo.com
                     </li>
                 </ul>
             </div>
@@ -360,7 +360,7 @@
 
                 <ul>
                     <li>
-                        9.1 En cas de retard ou d’échec d’une transaction commandée par vos soins, vous pourriez prétendre à la perception d’un remboursement ou d’un dédommagement en vertu des réglementations applicables aux transferts de fonds, comme indiqué plus en détails dans l’article 12. Veuillez nous contacter à l’adresse électronique hello@icash-congo.com pour en savoir plus concernant les remboursements et les dédommagements
+                        9.1 En cas de retard ou d’échec d’une transaction commandée par vos soins, vous pourriez prétendre à la perception d’un remboursement ou d’un dédommagement en vertu des réglementations applicables aux transferts de fonds, comme indiqué plus en détails dans l’article 12. Veuillez nous contacter à l’adresse électronique hello@kimya transfert-congo.com pour en savoir plus concernant les remboursements et les dédommagements
                     </li>
                     <li>9.2 Les demandes de remboursement ou de dédommagement devront être accompagnées de l’ensemble des pièces justificatives disponibles.</li>
                     <li>
@@ -511,11 +511,11 @@
                 <ul>
                     <li>
                         12.1 Vous disposez du droit d’annuler toute transaction tant que le règlement y afférent n’a pas été effectué au profit du bénéficiaire. Si vous avez envoyé de l’argent avec un formulaire du bénéficiaire, vous pouvez exercer ce droit en :
-                        nous adressant un courrier électronique à l’adresse : support@icash-congo.com. Si vous avez envoyé de l’argent via l’application, vous pouvez exercer ce droit en :
+                        nous adressant un courrier électronique à l’adresse : support@kimya transfert-congo.com. Si vous avez envoyé de l’argent via l’application, vous pouvez exercer ce droit en :
                         <ol>
                             <li>annulant la commande dans l’application ; ou
                             </li>
-                            <li>nous adressant un courrier électronique à l’adresse : support@icash-congo.com.</li>
+                            <li>nous adressant un courrier électronique à l’adresse : support@kimya transfert-congo.com.</li>
                         </ol>
                     </li>
                     <li>
@@ -547,10 +547,10 @@
                 </h4>
 
                 <ul>
-                    <li>13.1 Toutes les promotions, tous les bonus ou toutes les offres spéciales proposés par iCash Collect sont soumis à des conditions générales spécifiques et tout bonus gratuit crédité sur votre compte doit être utilisé conformément auxdites Conditions générales.</li>
+                    <li>13.1 Toutes les promotions, tous les bonus ou toutes les offres spéciales proposés par kimya transfert sont soumis à des conditions générales spécifiques et tout bonus gratuit crédité sur votre compte doit être utilisé conformément auxdites Conditions générales.</li>
                     <li>13.2 Dans certains cas, nous pouvons clore les promotions, bonus ou offres spéciales avant la fin de la période annoncée ou pouvons prolonger la durée d’une promotion, d’un bonus ou d’une offre spéciale, généralement en raison d’un abus, de participations limitées ou d’une erreur.</li>
-                    <li>13.3 iCash Collect se réserve le droit d’exclure certains pays des offres promotionnelles.</li>
-                    <li>13.4 Dans le cas où iCash Collect a des raisons de suspecter qu’un utilisateur de notre Service a abusé, abuse ou tente d’abuser d’un bonus ou autre promotion ou est susceptible de profiter d’un abus ou d’un manque de bonne foi dans une politique adoptée par iCash Collect , alors iCash Collect peut, à son entière discrétion, refuser, interrompre ou retirer tout bonus ou toute promotion à un utilisateur, ou annuler toute politique à l’égard de cet utilisateur, à titre temporaire ou permanent, ou résilier l’accès de cet utilisateur à son compte.</li>
+                    <li>13.3 kimya transfert se réserve le droit d’exclure certains pays des offres promotionnelles.</li>
+                    <li>13.4 Dans le cas où kimya transfert a des raisons de suspecter qu’un utilisateur de notre Service a abusé, abuse ou tente d’abuser d’un bonus ou autre promotion ou est susceptible de profiter d’un abus ou d’un manque de bonne foi dans une politique adoptée par kimya transfert , alors kimya transfert peut, à son entière discrétion, refuser, interrompre ou retirer tout bonus ou toute promotion à un utilisateur, ou annuler toute politique à l’égard de cet utilisateur, à titre temporaire ou permanent, ou résilier l’accès de cet utilisateur à son compte.</li>
                 </ul>
             </div>
 
@@ -562,7 +562,7 @@
                 <ul>
                     <li>14.1 Vos commentaires sont précieux et nous aident à améliorer notre service. Aussi, nous avons mis en place des procédures internes pour traiter les réclamations. Vous pouvez faire une réclamation en nous écrivant pour évoquer n’importe quel aspect du Service, par courrier électronique envoyé aux adresses suivantes :
 
-                        complaints@icash-congo.com
+                        complaints@kimya transfert-congo.com
                     </li>
                     <li>14.2 Nous examinerons votre réclamation et vous recontacterons pour vous faire part de notre réponse définitive avant la fin du 15e jour ouvré suivant le jour durant lequel nous avons reçu une réclamation.</li>
                     <li>14.3 Pour plus d’informations, une politique de traitement des réclamations peut vous être transmise sur demande.</li>
@@ -681,7 +681,7 @@
 
                 <ul>
                     <li>
-                        23.1 Le site Internet et l’application, les contenus, la dénomination iCash collect et tous autres noms, logos, signes, noms de domaine, adresses de courrier électronique et autres indications d’origine affichés sur le site Internet ou dans l’application concernant nos produits et/ou services, ainsi que tous éléments relevant du droit de la propriété intellectuelle y afférents et susceptibles d’y être contenus (notamment, à  titre non limitatif, les droits d’auteur, les brevets, les droits sur les bases de données, les droits sur les dessins et modèles et les marques, ci-après les « DPI ») sont notre propriété, ou celle de nos filiales ou de nos tiers donneurs de licence.
+                        23.1 Le site Internet et l’application, les contenus, la dénomination kimya transfert et tous autres noms, logos, signes, noms de domaine, adresses de courrier électronique et autres indications d’origine affichés sur le site Internet ou dans l’application concernant nos produits et/ou services, ainsi que tous éléments relevant du droit de la propriété intellectuelle y afférents et susceptibles d’y être contenus (notamment, à  titre non limitatif, les droits d’auteur, les brevets, les droits sur les bases de données, les droits sur les dessins et modèles et les marques, ci-après les « DPI ») sont notre propriété, ou celle de nos filiales ou de nos tiers donneurs de licence.
                         Tous autres noms et logos concernant des produits, services ou sociétés tiers/tierces affiché(e)s sur le site Internet peuvent constituer des marques appartenant à des tiers.
                         La fourniture du service ou la conclusion du contrat ne vous permettra pas d’acquérir quelque droit, titre ou intérêt que ce soit sur les DPI susvisés. Il est par ailleurs entendu que tous droits, titres et intérêts sur le site Internet et l’application, ou y afférents demeureront notre propriété exclusive et/ou celle de leurs tiers détenteurs.
                     </li>
@@ -751,7 +751,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 iCash Collect All Rights Reserved. Powered by
+                    <p class="text-center text-lg-right mb-2 mb-lg-0">Copyright © 2021 KIMYA TRANSFERT All Rights Reserved. Powered by
                         <a href="https://UPSYLONE.COM/">UPSYLONE SARL</a>.</p>
                 </div>
                 <div class="col-lg-4 d-lg-flex align-items-center justify-content-lg-end">
