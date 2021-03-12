@@ -103,8 +103,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12 text-center">
-                                <h1 class="text-11 font-weight-500 text-white mb-4">FAQ</h1>
-                                <p class="text-3 text-white line-height-4 mb-4">Notre mission est de simplifier la vie de la diaspora qui courageusement assiste les familles au Pays.</p>
+                                <h1 class="text-11 font-weight-500 text-black mb-4">FAQ</h1>
+                                <p class="text-7 font-weight-500 text-black line-height-4 mb-4">Notre mission est de simplifier la vie de la diaspora qui courageusement assiste les familles au Pays.</p>
                             </div>
                         </div>
                     </div>

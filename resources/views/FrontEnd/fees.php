@@ -101,7 +101,7 @@
         <div class="hero-content">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 col-xl-6 text-center text-lg-left">
+                    <div class="col-12 text-center">
                         <h1 class="text-11 text-white mb-4">
                             <span>Nous promettons des frais abordables et sans frais supplémentaires</span>
                         </h1>
