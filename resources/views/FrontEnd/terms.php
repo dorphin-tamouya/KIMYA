@@ -184,7 +184,7 @@
                         2.12 « Transaction » : désigne toute opération de transfert de fonds initiée par vos soins par le biais du service et/ou toute autre utilisation que vous pourriez faire de ce dernier ;
                     </li>
                     <li>
-                        2.13 « Site Internet » : désigne le site Internet kimya transfertcollect-congo.com géré par kimya transfert pour fournir des services en ligne de transfert de fonds, ainsi que les informations y afférentes.
+                        2.13 « Site Internet » : désigne le site Internet kimya transfert-congo.com géré par kimya transfert pour fournir des services en ligne de transfert de fonds, ainsi que les informations y afférentes.
                     </li>
                 </ul>
             </div>
@@ -196,10 +196,10 @@
 
                 <ul>
                     <li>
-                        3.1 kimya transfert collect gère un site Internet et une Application vous permettant de procéder à des transferts de fonds par le biais d’un dispositif connecté à Internet et/ou d’un téléphone mobile.
+                        3.1 kimya transfert  gère un site Internet et une Application vous permettant de procéder à des transferts de fonds par le biais d’un dispositif connecté à Internet et/ou d’un téléphone mobile.
                     </li>
                     <li>
-                        3.2 kimya transfert collect est un produit de Businesslighthouse société constituée et agréée en vertu du droit
+                        3.2 kimya transfert  est un produit de Businesslighthouse société constituée et agréée en vertu du droit
                     </li>
                     <li>
                         3.3 Vous pouvez nous contacter en empruntant l’un des moyens suivants : Par courrier électronique à l’adresse suivante : hello@kimya transfert-congo.com, Site Internet : www.kimya transfert-congo.com
