@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Front\PaymentController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,6 +18,11 @@ use Illuminate\Support\Facades\Route;
     return view('welcome');
 });*/
 
+Route::prefix('transfert')->middleware('auth')->group(function () {
+    Route::post('send', [PaymentController::class, 'send'])->name('send-money');
+    Route::post('confirm', [PaymentController::class, 'checkSend'])->name('confirm-money');
+});
+
 Route :: get('/','TemplateController@index');
 Route :: get('about-us','TemplateController@aboutus');
 Route :: get('help','TemplateController@help');
@@ -26,3 +32,11 @@ Route :: get('signup','TemplateController@signup');
 Route :: get('policy','TemplateController@policy');
 Route :: get('terms','TemplateController@terms');
 Route :: get('fees','TemplateController@fees');
+Route :: get('sendconfirm','TemplateController@sendconfirm');
+Route :: get('sendsuccess','TemplateController@sendsuccess');
+Route :: get('dashboard','TemplateController@dashboard');
+Route :: get('profile','TemplateController@profile');
+Route :: get('security','TemplateController@security');
+Route :: get('paymentmethods','TemplateController@paymentmethods');
+
+

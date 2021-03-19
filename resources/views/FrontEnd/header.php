@@ -6,7 +6,7 @@
         <div class="header-column justify-content-start"> 
           <!-- Logo
           ============================= -->
-          <div class="logo"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo.png" alt="Payyed" /></a> </div>
+          <div class="logo"> <a class="d-flex" href="/" title="KIMYA TRANSFERT"><img src="images/logo.png" alt="Payyed" /></a> </div>
           <!-- Logo end --> 
           <!-- Collapse Button
           ============================== -->

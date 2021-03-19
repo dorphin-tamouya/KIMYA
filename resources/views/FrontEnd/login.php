@@ -55,7 +55,7 @@
         <div class="header-column justify-content-start"> 
           <!-- Logo
           ============================= -->
-          <div class="logo"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo.png" alt="Payyed" /></a> </div>
+          <div class="logo"> <a class="d-flex" href="/" title="KIMYA TRANSFERT"><img src="images/logo.png" alt="Payyed" /></a> </div>
           <!-- Logo end --> 
           <!-- Collapse Button
           ============================== -->
@@ -100,7 +100,7 @@
             <h3 class="font-weight-400 text-center mb-4">Log In</h3>
             <hr class="mx-n5">
             <p class="lead text-center">We are glad to see you again!</p>
-            <form id="loginForm" method="post">
+            <form action="sendconfirm" method="get">
               <div class="form-group">
                 <label for="emailAddress">Email Address</label>
                 <input type="email" class="form-control" id="emailAddress" required placeholder="Enter Your Email">
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-sm text-right"><a class="btn-link" href="/contact-us">Forgot Password ?</a></div>
               </div>
-              <button class="btn btn-primary btn-block my-4" type="submit">Log In</button>
+              <button class="btn btn-primary btn-block my-4" type="submit" action="sendconfirm">Log In</button>
             </form>
             <p class="text-3 text-muted text-center mb-0">Don't have an account? <a class="btn-link" href="/signup">Sign Up</a></p>
           </div>

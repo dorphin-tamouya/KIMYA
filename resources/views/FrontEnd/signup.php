@@ -55,7 +55,7 @@
         <div class="header-column justify-content-start"> 
           <!-- Logo
           ============================= -->
-          <div class="logo"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo.png" alt="Payyed" /></a> </div>
+          <div class="logo"> <a class="d-flex" href="/" title="KIMYA TRANSFERT"><img src="images/logo.png" alt="Payyed" /></a> </div>
           <!-- Logo end --> 
           <!-- Collapse Button
           ============================== -->
@@ -100,7 +100,7 @@
             <h3 class="font-weight-400 text-center mb-4">Sign Up</h3>
             <hr class="mx-n4">
             <p class="lead text-center">Your information is safe with us.</p>
-            <form id="signupForm" method="post">
+            <form action="login" method="get">
               <div class="form-group">
                 <label for="fullName">Full Name</label>
                 <input type="text" class="form-control" id="fullName" required placeholder="Enter Your Name">

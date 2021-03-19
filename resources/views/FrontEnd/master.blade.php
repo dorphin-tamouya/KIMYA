@@ -58,7 +58,7 @@
         <div class="header-column justify-content-start"> 
           <!-- Logo
           ============================= -->
-          <div class="logo"> <a class="d-flex" href="/" title="Payyed - HTML Template"><img src="images/logo.png" alt="Payyed" /></a> </div>
+          <div class="logo"> <a class="d-flex" href="/" title="KIMYA TRANSFERT"><img src="images/logo.png" alt="Payyed" /></a> </div>
           <!-- Logo end --> 
           <!-- Collapse Button
           ============================== -->
@@ -97,15 +97,12 @@
   <!-- Content
   ============================================= -->
   <div id="content"> 
-    
-    <!-- Send Money
-    ============================================= -->
-    <section class="hero-wrap">
-      <div class="hero-mask opacity-7 bg-dark"></div>
-      <div class="hero-bg" style="background-image:url('images/bg/image-6.jpg');"></div>
-      <div class="hero-content d-flex flex-column fullscreen-with-header">
+  <section class="hero-wrap">
+    <div class="hero-mask opacity-7 bg-dark"></div>
+    <div class="hero-bg" style="background-image:url('images/bg/image-6.jpg');"></div>
+    <div class="hero-content d-flex flex-column fullscreen-with-header">
         <div class="container my-auto py-5">
-          <div class="row">
+            <div class="row">
             <div class="col-lg-6 col-xl-7 my-auto text-center text-lg-left pb-4 pb-lg-0">
               <h2 class="text-17 text-white"><span class="font-weight-400 text-15">A better way to</span> <br>
                 Send Money</h2>
@@ -115,173 +112,101 @@
                                 <i class="fas fa-chevron-right text-2 ml-2"></i>
                             </a>
                            </div>
-            <div class="col-lg-6 col-xl-5 my-auto">
-              <div class="bg-white rounded shadow-md p-4">
+                <div class="col-lg-6 col-xl-5 my-auto">
+                    <div class="bg-white rounded shadow-md p-4">
+                        <h3 class="text-5 mb-4 text-center">Send Money</h3>
 
-                <form id="form-send-money" method="post">
-                  <div class="form-group">
-                    <label for="youSend">You Send</label>
-                    <div class="input-group">
-                      <div class="input-group-prepend"> <span class="input-group-text">€</span> </div>
+                        <div style="display: none" id="error">
+                            <div class="alert alert-danger" role="alert" >
+                                Vos sommes sont incorrect ou depasse le seuil autorisé $10 as $350.
+                            </div>
+                        </div>
 
-                      <input type="number" 
-                      class="form-control" 
-                      placeholder="" 
-                      data-bv-field="youSend" 
-                      id="youSend" 
-                      onchange="moneySend()" required min="1" max="300" name="sendingAmount" value="">
-                      
-                      <div class="input-group-append"> 
-                        <span class="input-group-text p-0">
+                        <hr class="mb-4 mx-n4">
+                        <form action="signup" method="get">
+                            @csrf
+                            <div class="form-group">
+                                <label for="youSend">You Send</label>
+                                <div class="input-group">
+                                    <div class="input-group-prepend"> <span class="input-group-text">$</span> </div>
+                                    <input type="text"
+                                           class="form-control"
+                                           data-bv-field="youSend" name="youSend"
+                                           id="youSend"
+                                           value="0" placeholder="" required min="1" max="300" onchange="moneySend()">
+                                    <div class="input-group-append">
+                                        <span class="input-group-text p-0">
+                                            <select id="youSendCurrency"
+                                                    data-style="custom-select bg-transparent border-0"
+                                                    data-container="body" data-live-search="true"
+                                                    class="selectpicker form-control bg-transparent" name="" required onchange="currencyChanged()">
+                                              <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" selected="selected" value="dollar">USD</option>
+                                              <option data-icon="currency-flag currency-flag-eur mr-1" data-subtext="Euro" value="euro">EUR</option>
+                                              <option data-icon="currency-flag currency-flag-gbp mr-1" data-subtext="British pound" value="sterling">GBP</option>
+                                            </select>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
 
-                      <select id="youSendCurrency" 
-                      data-style="custom-select bg-transparent border-0" 
-                      data-container="body" data-live-search="true" 
-                      class="selectpicker form-control bg-transparent" name="" required onchange="currencyChanged()">
-                          <optgroup label="Popular Currency">
-                          <option data-icon="currency-flag currency-flag-eur mr-1" data-subtext="Euro" selected="selected" value="">EUR</option>
-                          <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" value="">USD</option>
-                          <option data-icon="currency-flag currency-flag-shp mr-1" data-subtext="Livre Sterling" value="">GBP</option>
-                          </optgroup>
-                          
-                        </select>
-                        </span> </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="recipientGets">Recipient Gets</label>
-
-                    <div class="input-group">
-                      <div class="input-group-prepend"> 
-                        <span class="input-group-text">$</span> </div>
-
-                      <input type="number" 
-                      class="form-control" 
-                      data-bv-field="recipientGets" id="recipientGets"
+                            <div class="form-group">
+                                <label for="recipientGets">Recipient Gets</label>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">$</span> </div>
+                                        <input type="text"
+                                               class="form-control" name="recipientGets"
+                                               data-bv-field="recipientGets" id="recipientGets"
                                                value="0" placeholder="" required onchange="moneyReceive()">
+                                        <div class="input-group-append">
+                                        <span class="input-group-text p-0">
+                                            <select id="recipientCurrency" data-style="custom-select bg-transparent border-0"
+                                                    data-container="body"
+                                                    data-live-search="true"
+                                                    class="selectpicker form-control bg-transparent">
+                                                <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" value="" selected>USD</option>
+                                            </select>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
 
-                         <div class="input-group-append"> 
-                        <span class="input-group-text p-0">
-                      <select id="recipientCurrency" 
-                      data-style="custom-select bg-transparent border-0" 
-                      data-container="body" 
-                      data-live-search="true" 
-                      class="selectpicker form-control bg-transparent" required="">
-
-                      
-                          <optgroup label="Popular Currency">
-                          <option data-icon="currency-flag currency-flag-usd mr-1" data-subtext="United States dollar" selected="selected" value="">USD</option> 
-                          </optgroup>
-                        </select>
-                        </span> </div>
-                    </div>
-                  </div>
-                   <div class="form-group">
-                                            <label for="receivingOptions">Receiving options</label>
-                                            <div class="input-group">
-                                                <select id="receivingOptions"
-                                                        data-style="custom-select"
-                                                        class="selectpicker form-control" required name="receivingType">
-                                                    <option value="">Select option</option>
-                                                    <option value="orangeMoney">Orange Money</option>
-                                                    <option value="mPesa">M-pesa</option>
-                                                    <option value="airtelMoney">Airtel Money</option>
-                                                </select>
-                                                <div class="input-group-append">
-                                                    <ul class="payments-types">
-                                                        <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/orange-money.png" alt="Orange Money" title="Orange"></a></li>
+                            <div class="form-group">
+                                <label for="receivingOptions">Receiving options</label>
+                                <div class="input-group">
+                                    <div class="dropdown bootstrap-select form-control">
+                                        <select id="receivingOptions" data-style="custom-select" class="selectpicker form-control" required="" name="receivingType" tabindex="-98">
+                                            <option value="" disabled selected>Sélectionnez une option</option>
+                                            <option value="orangeMoney">Orange Money</option>
+                                            <option value="mPesa">M-pesa</option>
+                                            <option value="airtelMoney">Airtel Money</option>
+                                        </select>
+                                    </div>
+                                    <div class="input-group-append">
+                                        <ul class="payments-types list-unstyled list-inline d-flex align-items-center">
+                                        <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/orange-money.png" alt="Orange Money" title="Orange"></a></li>
                                                         <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/airtel-money.png" alt="Aitel Money" title="Airtel"></a></li>
                                                         <li><a href="#"> <img class="operator-img" data-toggle="tooltip" src="images/sending/m-pesa.jpeg" alt="M-Pesa" title="Vodacom"></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
 
-                  <p class="text-muted mb-1">Total fees  - <span class="font-weight-500">7.21 USD</span></p>
-                  <p class="text-muted">The current exchange rate is 
-                  <span class="font-weight-500">1 USD = 0.830 EUR</span>
-                                <br> <span class="font-weight-500">1 USD = 0.717 GBP</span></p>
-                  <button class="btn btn-primary btn-block">Continue</button>
-                </form>
-              </div>
+                            <p class="text-muted mb-1">Total des frais  : <span id="fees" class="font-weight-500">0</span> <span class="font-weight-500"> USD</span></p>
+                            <input type="hidden" name="fees" value="">
+                            <p class="text-muted mb-1">Total a envoyer  : <span id="totals" class="font-weight-500">0</span><span class="font-weight-500"> USD</span></p>
+                            <p class="text-muted">La valeur de change est :
+                                <span class="font-weight-500">1 USD = 0.830 EUR</span>
+                                <br> <span class="font-weight-500">1 USD = 0.717 GBP</span>
+                            </p>
+                            <button class="btn btn-primary btn-block" type="submit">Continuer</button>
+                        </form>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-    </section>
-    
-    @section('javascript')
-
-    <script>
-        let currencies = ['dollar', 'euro', 'sterling'];
-        let currencySelected = document.getElementById('youSendCurrency').value;
-        let amountToSend = parseInt(document.getElementById('youSend').value);
-        let amountToReceive = parseInt(document.getElementById('recipientGets').value);
-
-        const rate = 0.05;
-        let fees = 0;
-        let totals = 0;
-
-        function moneySend() {
-            switch (showOption()) {
-                case currencies[1] :
-                    document.getElementById('recipientGets').value = (parseInt(document.getElementById('youSend').value) * 0.83015).toFixed(2);
-                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
-                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value * 0.05) + parseInt(document.getElementById('recipientGets').value)) + ' USD';
-                    break;
-                case currencies[2] :
-                    document.getElementById('recipientGets').value = (parseInt(document.getElementById('youSend').value) * 0.717).toFixed(2);
-                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
-                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value * 0.05) + parseInt(document.getElementById('recipientGets').value)) + ' USD';
-                    break;
-                    default :
-                    document.getElementById('recipientGets').value  = parseInt(document.getElementById('youSend').value);
-                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
-                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value * 0.05) + parseInt(document.getElementById('recipientGets').value)) + ' USD';
-            }
-        }
-
-        function moneyReceive() {
-            switch (showOption()) {
-                case currencies[1] :
-                    document.getElementById('youSend').value = (parseInt(document.getElementById('recipientGets').value) * 1.2046).toFixed(2);
-                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
-                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value * 0.05) + parseInt(document.getElementById('recipientGets').value)) + ' USD';
-                    break;
-                case currencies[2] :
-                    document.getElementById('youSend').value = (parseInt(document.getElementById('recipientGets').value) * 1.3947).toFixed(2);
-                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
-                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value * 0.05) + parseInt(document.getElementById('recipientGets').value)) + ' USD';
-                    break;
-                    default :
-                    document.getElementById('youSend').value  = parseInt(document.getElementById('recipientGets').value);
-                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
-                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value * 0.05) + parseInt(document.getElementById('recipientGets').value)) + ' USD';
-            }
-        }
-
-        function showOption() {
-            return document.getElementById('youSendCurrency').value
-        }
-
-        function currencyChanged() {
-            moneySend();
-        }
-
-        function computedFee() {
-            fees = amountToReceive * 0.05;
-        }
-
-        function computedTotal() {
-            totals = fees + amountToReceive;
-        }
-    </script>
-
-
-@endsection
-
-    <!-- Send Money End --> 
-
+    </div>
+</section>
     <!-- Why choose us
     ============================================= -->
     <section class="section bg-white">
@@ -393,5 +318,71 @@
 <script src="vendor/bootstrap-select/js/bootstrap-select.min.js"></script> 
 <script src="vendor/owl.carousel/owl.carousel.min.js"></script> 
 <script src="js/theme.js"></script>
+
+<script>
+        let currencies = ['dollar', 'euro', 'sterling'];
+        let currencySelected = document.getElementById('youSendCurrency').value;
+        let amountToSend = parseInt(document.getElementById('youSend').value);
+        let amountToReceive = parseInt(document.getElementById('recipientGets').value);
+
+        const rate = 0.05;
+        let fees = 0;
+        let totals = 0;
+
+        function moneySend() {
+            switch (showOption()) {
+                case currencies[1] :
+                    document.getElementById('recipientGets').value = (parseInt(document.getElementById('youSend').value) * 0.83015).toFixed(2);
+                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
+                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value) + parseInt(document.getElementById('fees').innerText));
+                    break;
+                case currencies[2] :
+                    document.getElementById('recipientGets').value = (parseInt(document.getElementById('youSend').value) * 0.717).toFixed(2);
+                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
+                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value) + parseInt(document.getElementById('fees').innerText));
+                    break;
+                default :
+                    document.getElementById('recipientGets').value  = parseInt(document.getElementById('youSend').value);
+                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
+                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value) + parseInt(document.getElementById('fees').innerText));
+            }
+        }
+
+        function moneyReceive() {
+
+            switch (showOption()) {
+                case currencies[1] :
+                    document.getElementById('youSend').value = (parseInt(document.getElementById('recipientGets').value) * 1.2046).toFixed(2);
+                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
+                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value) + parseInt(document.getElementById('fees').innerText)) + ' USD';
+                    break;
+                case currencies[2] :
+                    document.getElementById('youSend').value = (parseInt(document.getElementById('recipientGets').value) * 1.3947).toFixed(2);
+                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
+                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value) + parseInt(document.getElementById('fees').innerText)) + ' USD';
+                    break;
+                default :
+                    document.getElementById('youSend').value  = parseInt(document.getElementById('recipientGets').value);
+                    document.getElementById('fees').innerHTML = (document.getElementById('recipientGets').value * 0.05).toFixed(2) + ' USD';
+                    document.getElementById('totals').innerHTML = (parseInt(document.getElementById('recipientGets').value) + parseInt(document.getElementById('fees').innerText)) + ' USD';
+            }
+        }
+
+        function showOption() {
+            return document.getElementById('youSendCurrency').value
+        }
+
+        function currencyChanged() {
+            moneySend();
+        }
+
+        function computedFee() {
+            fees = amountToReceive * 0.05;
+        }
+
+        function computedTotal() {
+            totals = fees + amountToReceive;
+        }
+    </script>
 </body>
 </html>
